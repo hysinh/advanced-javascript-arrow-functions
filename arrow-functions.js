@@ -46,4 +46,3 @@ const returnMultipleLines = () => (
 )
 console.log(returnMultipleLines());
 
-
